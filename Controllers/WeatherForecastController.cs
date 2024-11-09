@@ -8,7 +8,7 @@ namespace ApiDeo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Congelante", "Estimulante", "Frio", "Frio", "Suave", "Quente", "Balsâmico", "Quente", "Sufocante", "Escaldante"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
