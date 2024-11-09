@@ -14,6 +14,7 @@ namespace ApiDeo.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
+        // Texto da branch novo recurso
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
