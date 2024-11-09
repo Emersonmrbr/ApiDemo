@@ -1,0 +1,6 @@
+@ApiDeo_HostAddress = http://localhost:5068
+
+GET {{ApiDeo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
